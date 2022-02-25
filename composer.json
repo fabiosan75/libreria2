@@ -20,7 +20,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "fabiosan75/libreria4": "*@dev",
-        "fabiosan75/libreria5": "*@dev"
+        "fabiosan75/libreria4": "1.0.0",
+        "fabiosan75/libreria5": "1.0.0"
     }
 }

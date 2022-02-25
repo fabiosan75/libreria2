@@ -1,0 +1,45 @@
+{
+    "packages": [
+        {
+            "name": "fabiosan75/libreria4",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fabiosan75/libreria4.git",
+                "reference": "b7f5e950610b8c3d9be3c631e6d56f46e6adabb6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fabiosan75/libreria4/zipball/b7f5e950610b8c3d9be3c631e6d56f46e6adabb6",
+                "reference": "b7f5e950610b8c3d9be3c631e6d56f46e6adabb6",
+                "shasum": ""
+            },
+            "time": "2022-02-25T17:31:25+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Fabiosan75\\Libreria4\\": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "fabiosan75",
+                    "email": "fabiosan75@gmail.com"
+                }
+            ],
+            "description": "Libreria 4 Prueba Dependencia Proyectos Librerias CI/CD",
+            "support": {
+                "source": "https://github.com/fabiosan75/libreria4/tree/v1.0.0",
+                "issues": "https://github.com/fabiosan75/libreria4/issues"
+            },
+            "install-path": "../fabiosan75/libreria4"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
